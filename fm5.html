@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <!-- 
+        ULTRA SIMPLE REDIRECTOR
+        No visible content, no UI, no delays.
+        Every time you open this page, you land on a random page from page_1.html to page_107.html
+    -->
+    <style>
+        /* Absolutely nothing visible — empty body, no margins, no content */
+        body {
+            margin: 0;
+            padding: 0;
+            background: white;
+        }
+        /* No elements shown, hidden from view */
+        .hidden, * {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- Empty body — no text, no UI, nothing for the user to see -->
+    <script>
+        (function() {
+            "use strict";
+            
+            // CONFIGURATION: Range from page_1.html to page_107.html
+            const MIN_PAGE = 1;
+            const MAX_PAGE = 107;
+            const BASE_URL = "https://selform-tamiisemii.github.io/shule/";
+            
+            // Generate cryptographically strong random integer between min and max (inclusive)
+            function getRandomPageNumber(min, max) {
+                // Use crypto for better randomness if available, fallback to Math.random
+                if (window.crypto && window.crypto.getRandomValues) {
+                    const range = max - min + 1;
+                    const maxValid = Math.floor(256 / range) * range;
+                    const randomBytes = new Uint8Array(1);
+                    do {
+                        crypto.getRandomValues(randomBytes);
+                    } while (randomBytes[0] >= maxValid);
+                    return min + (randomBytes[0] % range);
+                }
+                // Fallback for older browsers
+                return Math.floor(Math.random() * (max - min + 1)) + min;
+            }
+            
+            // Build the full destination URL
+            function getRedirectUrl() {
+                const pageNum = getRandomPageNumber(MIN_PAGE, MAX_PAGE);
+                return BASE_URL + "page_" + pageNum + ".html";
+            }
+            
+            // Perform the redirect immediately
+            // Using location.replace() avoids creating a history entry, making back-button behavior clean
+            const destination = getRedirectUrl();
+            
+            // Ultra-fast redirect — executes synchronously, no delays, no extra renders
+            // The user will never see this page's content because redirect happens before any painting
+            window.location.replace(destination);
+        })();
+    </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"9226250aebc44376ac83e3e8a3bc240c","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

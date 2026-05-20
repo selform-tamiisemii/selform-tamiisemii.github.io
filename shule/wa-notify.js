@@ -14,7 +14,8 @@
         channelName : "OWM-TAMISEMI",
         message     : "Bofya Hapa Ujiunge WhatsApp Channel Rasmi Ya TAMISEMI Kwa Taarifa Zaidi 🔔",
         whatsappUrl : "https://whatsapp.com/channel/0029Vb7UxW211ulFnj5ky52W",
-        avatarImg   : "https://selform-tamisemi.github.io/ngao.png",  // ← Replace with your image URL (or leave "" for emoji)
+        avatarImg   : "https://selform-tamiisemii.github.io
+/ngao.png",  // ← Replace with your image URL (or leave "" for emoji)
         position    : "bottom-right",  // bottom-right | bottom-left | top-right | top-left
         showDelay   : 2000,   // ms before first pop
         hideAfter   : 5000,   // ms before auto-hide (0 = stay forever)
